@@ -1,7 +1,7 @@
 ## Kauã Ribeiro Mota
 
 Estudante de Engenharia de Software na UniCatólica (Palmas, TO), 
-formando em DATA. Trabalho com Python e Flutter, e gosto de 
+formando em 2027. Trabalho com Python e Flutter, e gosto de 
 construir coisa que alguém usa de verdade.
 
 **Stack:** Python · FastAPI · SQLAlchemy · Flutter/Dart · SQLite · Git
