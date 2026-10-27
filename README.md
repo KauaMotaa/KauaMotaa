@@ -2,7 +2,7 @@
 
 Estudante de Engenharia de Software na UniCatólica (Palmas, TO), 
 formando em 2027. Trabalho com Python e Flutter, e gosto de 
-construir coisa que alguém usa de verdade.
+softwares que as pessoas usem de verdade.
 
 **Stack:** Python · FastAPI · SQLAlchemy · Flutter/Dart · SQLite · Git
 
