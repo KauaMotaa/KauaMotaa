@@ -1,16 +1,25 @@
-## Hi there 👋
+## Kauã Ribeiro Mota
 
-<!--
-**KauaMotaa/KauaMotaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software na UniCatólica (Palmas, TO), 
+formando em DATA. Trabalho com Python e Flutter, e gosto de 
+construir coisa que alguém usa de verdade.
 
-Here are some ideas to get you started:
+**Stack:** Python · FastAPI · SQLAlchemy · Flutter/Dart · SQLite · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Projetos
+
+**[Vality](https://github.com/KauaMotaa/vality)** — Controle de estoque 
+com alerta de validade. Em uso diário por duas funcionárias de um mercado 
+de bairro desde outubro de 2026. FastAPI + Flutter, backend local, 
+notificação agendada no dispositivo.
+
+**[Sistema de Reservas](LINK)** — Projeto de estudo focado em qualidade 
+de software. API em FastAPI usada como base para praticar testes E2E, 
+mutation testing, logging estruturado e pipeline de CI com gate de 80% 
+de cobertura.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/kauã-ribeiro-mota-0a4853278/)
